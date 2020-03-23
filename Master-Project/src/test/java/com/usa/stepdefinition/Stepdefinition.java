@@ -30,7 +30,8 @@ public class Stepdefinition extends SupperClass{
 	@When("^User can enter userName \"([^\"]*)\" and password \"([^\"]*)\"$")
 	public void user_can_enter_userName_and_password(String userName, String pwd) {
 		logger.info("******** As a user i can Click on signIn BTN *********");
-		pf.getClickSignInBTN().click();
+		SeleniumUtil.javScriptClick(pf.getClickSignInBTN(), driver);
+		//pf.getClickSignInBTN().click();
 		logger.info("******** As a user i can enter username *********");
 		pf.getUserName().sendKeys(userName);
 		logger.info("******** As a user i can enter password *********");
