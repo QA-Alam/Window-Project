@@ -1,0 +1,414 @@
+2020-03-08 00:37:33,921 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-08 00:37:35,936 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-08 00:37:41,277 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-08 00:37:41,616 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-08 00:37:42,396 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-08 00:37:42,517 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-08 00:37:43,266 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 00:37:43,407 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-08 00:37:43,549 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-08 00:37:44,939 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-08 00:37:48,650 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-08 00:37:49,602 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-08 00:37:49,837 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-08 00:37:49,981 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-08 00:37:50,625 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 00:37:50,701 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-08 00:37:50,799 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-08 00:37:51,967 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-08 00:37:58,131 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-08 00:38:01,067 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-08 00:38:01,202 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-08 00:38:01,340 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-08 00:38:03,794 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 00:38:03,806 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-08 00:38:03,817 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-08 11:35:01,216 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:35:01,221 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:35:06,383 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:35:08,774 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:35:08,809 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-08 11:35:34,186 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:35:34,189 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:35:39,067 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:35:41,444 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:35:41,480 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-08 11:40:33,469 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:40:33,472 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:40:37,865 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:40:40,320 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-08 11:40:40,357 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:43:54,474 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:43:54,477 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:43:58,178 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:44:00,429 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:44:59,696 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:44:59,699 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:45:04,408 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:45:06,607 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:46:04,593 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:46:04,596 [main] INFO QA Testing - ******** I am a firefox browser*********
+2020-03-08 11:46:08,108 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:46:15,297 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 11:49:09,296 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-08 11:49:09,299 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-08 11:49:13,873 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-08 11:49:16,297 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-08 12:07:31,407 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-08 12:11:11,974 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-09 22:49:12,273 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:13:31,933 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:14:54,685 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:16:53,779 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:19:20,113 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:27:31,816 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:30:31,290 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:32:45,487 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:35:16,192 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:37:18,658 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:41:18,542 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 11:42:50,860 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:02:48,246 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:04:26,452 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:06:50,421 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:08:04,318 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:08:59,313 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:10:10,693 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:11:27,392 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:12:33,947 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-10 12:13:55,552 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:23:56,160 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:25:05,735 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:36:14,881 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:37:01,655 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:38:39,713 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:39:37,193 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:42:31,073 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:43:57,050 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 09:46:44,085 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:09:12,307 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:10:29,465 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:11:45,844 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:17:16,674 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:23:44,476 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:24:59,680 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:26:23,338 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:28:01,246 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:29:13,323 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:32:31,974 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:34:43,236 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:39:16,955 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:54:36,582 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 10:57:06,851 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:49:51,050 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:52:13,274 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:53:14,510 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:54:01,573 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:56:31,780 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 14:58:04,037 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 15:05:01,015 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 15:07:59,076 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 15:09:45,860 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 15:10:41,632 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-11 15:17:50,920 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 10:43:58,226 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-14 10:43:58,231 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 10:43:58,898 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 10:43:58,912 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 10:43:58,932 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 10:43:58,953 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 10:43:58,962 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 10:43:58,974 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 16:50:59,941 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-14 16:50:59,945 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 16:51:57,854 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-14 16:51:57,858 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 16:52:17,115 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-14 16:52:20,653 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-14 16:58:45,962 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 18:55:48,147 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 18:57:41,420 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 18:58:54,218 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:01:56,158 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:02:48,831 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:03:35,536 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:04:57,375 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-14 19:04:57,385 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:05:12,103 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-14 19:05:16,017 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-14 19:05:17,679 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 19:05:17,702 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 19:05:17,735 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 19:05:17,753 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 19:05:17,758 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-14 19:05:17,771 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-14 19:06:38,462 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-14 19:06:38,465 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-14 19:06:51,239 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-14 19:06:54,706 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-14 19:06:55,349 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-20 22:52:45,863 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-20 22:52:45,869 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-20 22:52:58,399 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-20 22:53:02,459 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-20 22:53:03,361 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-20 22:53:25,491 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:53:25,534 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-20 22:53:26,236 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:53:26,254 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-20 22:53:26,261 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:53:26,285 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-20 22:54:45,265 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-20 22:54:45,271 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-20 22:55:03,589 [main] INFO QA Testing - ******** As a user i can login to the application *********
+2020-03-20 22:55:07,514 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-20 22:55:08,154 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-20 22:55:33,417 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:55:38,159 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-20 22:55:43,788 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-20 22:55:51,409 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-20 22:55:51,696 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-20 22:55:51,930 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-20 22:55:53,635 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-20 22:55:53,664 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-20 22:55:54,327 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:55:59,093 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-20 22:56:05,057 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-20 22:56:11,396 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-20 22:56:11,536 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-20 22:56:11,632 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-20 22:56:13,881 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-20 22:56:13,943 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-20 22:56:14,836 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-20 22:56:19,138 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-20 22:56:23,348 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-20 22:56:27,375 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-20 22:56:27,565 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-20 22:56:27,659 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-20 22:56:30,212 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-20 22:56:30,233 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-20 22:56:30,254 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:35:50,537 [main] INFO QA Testing - ******** As a user i can open the browser *********
+2020-03-23 13:35:50,545 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-23 13:36:15,812 [main] INFO QA Testing - ******** I am a Chrome browser*********
+2020-03-23 13:37:02,242 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:37:05,978 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:37:26,024 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:37:26,744 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:37:30,160 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:37:42,139 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:37:44,241 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:37:44,582 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:37:44,941 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:37:48,770 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:37:48,817 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:37:49,542 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:37:54,111 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:38:11,849 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:38:22,326 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:38:30,547 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:38:30,754 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:38:50,849 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:39:19,771 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:39:24,168 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:39:44,223 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:39:44,918 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:39:48,348 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:40:04,245 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:40:10,428 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:40:10,600 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:40:10,746 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:40:12,691 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:40:12,760 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:40:13,468 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:40:16,898 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:40:35,039 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:40:38,234 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:40:38,429 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:40:38,590 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:40:39,736 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:40:39,750 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:40:39,770 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:40:40,965 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:40:44,316 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:40:52,839 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:41:05,119 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:41:05,321 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:41:05,516 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:41:10,781 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:41:10,829 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:41:11,539 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:41:14,994 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:41:35,028 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:41:35,728 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:41:39,334 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:41:59,355 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:42:31,078 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:42:35,345 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:42:52,337 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:43:05,115 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:43:05,402 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:43:05,645 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:43:08,327 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:43:08,378 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:43:09,183 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:43:12,610 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:43:32,700 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:43:33,392 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:43:36,970 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:43:43,142 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:43:47,820 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:43:47,978 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:43:48,090 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:44:05,998 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:44:06,019 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:44:06,037 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:44:07,302 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:44:10,670 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:44:29,137 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:44:44,549 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:44:44,983 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:44:45,183 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:44:47,390 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:44:47,431 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:44:48,162 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:44:51,798 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:44:54,466 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:44:58,808 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:45:11,825 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:45:12,411 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:45:12,544 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:45:16,022 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:45:25,678 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:45:27,547 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:45:27,714 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:45:27,858 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:45:41,332 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:45:41,383 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:45:42,805 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:45:47,475 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:46:07,566 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:46:08,256 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:46:11,755 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:46:23,694 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:46:59,598 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:46:59,790 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:46:59,917 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:47:06,410 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:47:06,429 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:47:06,451 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:47:07,783 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:47:11,141 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:47:12,788 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:47:12,841 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:47:13,549 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:47:18,286 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:47:23,020 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:47:23,031 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:47:23,684 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:47:27,195 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:47:33,618 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:47:33,633 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:47:54,029 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:47:58,360 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:48:13,197 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:48:21,013 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:48:21,187 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:48:21,311 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:48:23,338 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:48:23,378 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:48:24,089 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:48:28,696 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:48:37,708 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:48:48,229 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:48:48,423 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:48:48,533 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:48:50,389 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:48:50,431 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:48:51,120 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:48:54,432 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:49:11,771 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:49:18,831 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:49:19,021 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:49:19,127 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:49:32,282 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:49:32,300 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:49:32,315 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:49:33,384 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:49:36,639 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:49:45,454 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:49:49,046 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:49:49,239 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:49:49,352 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:49:51,010 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:49:51,058 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:49:51,825 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:49:55,256 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:50:00,968 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:50:21,161 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:50:21,810 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:50:25,127 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:50:39,444 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:50:52,593 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:50:52,741 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:50:52,850 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:50:56,348 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:50:56,360 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:50:56,371 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:53:41,973 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:53:46,364 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:54:03,027 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:54:17,855 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:54:18,060 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:54:18,180 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:54:21,372 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:54:21,427 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:54:22,181 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:54:25,487 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:54:29,819 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:54:44,220 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:54:44,371 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:54:44,492 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:54:46,607 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:54:46,830 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:54:47,549 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:54:51,835 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:55:10,929 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:55:20,379 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:55:20,517 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:55:20,625 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:55:34,160 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:55:34,171 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:55:34,181 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:55:35,270 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:55:38,603 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:55:56,162 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 13:56:16,344 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:56:17,078 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:56:20,384 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:56:40,400 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:56:41,072 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:56:44,382 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:56:59,879 [main] INFO QA Testing - ******** As a user i can click on signin btn *********
+2020-03-23 13:57:05,623 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 13:57:05,813 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 13:57:05,940 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 13:57:09,926 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 13:57:09,945 [main] INFO QA Testing - ******** As a user i can verify error message *********
+2020-03-23 13:57:09,961 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 13:59:42,749 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 13:59:47,637 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 13:59:52,892 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 14:00:06,179 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 14:00:06,364 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 14:00:06,469 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 14:00:08,930 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 14:00:08,987 [main] INFO QA Testing - ******** As a user i can closed the browser *********
+2020-03-23 14:00:10,179 [main] INFO QA Testing - ******** I am a chrome browser*********
+2020-03-23 14:00:13,431 [main] INFO QA Testing - ******** As a user i can enter URL *********
+2020-03-23 14:00:21,498 [main] INFO QA Testing - ******** As a user i can Click on signIn BTN *********
+2020-03-23 14:00:35,249 [main] INFO QA Testing - ******** As a user i can enter username *********
+2020-03-23 14:00:35,478 [main] INFO QA Testing - ******** As a user i can enter password *********
+2020-03-23 14:00:35,662 [main] INFO QA Testing - ******** As a user i can click on submit btn *********
+2020-03-23 14:00:37,191 [main] INFO QA Testing - ******** As a user i can verify page title *********
+2020-03-23 14:00:37,228 [main] INFO QA Testing - ******** As a user i can closed the browser *********

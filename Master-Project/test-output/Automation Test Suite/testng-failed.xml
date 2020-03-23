@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.usa.utility.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="PMCS Login test(failed)">
+    <classes>
+      <class name="com.usa.logintest.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="propertyValidation"/>
+        </methods>
+      </class> <!-- com.usa.logintest.HomePageTest -->
+    </classes>
+  </test> <!-- PMCS Login test(failed) -->
+</suite> <!-- Failed suite [Automation Test Suite] -->
