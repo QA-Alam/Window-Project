@@ -475,3 +475,57 @@
 2020-03-23 14:50:41,796 - QA Testing -INFO - ******** As a user i can click on submit btn *********
 2020-03-23 14:50:43,480 - QA Testing -INFO - ******** As a user i can verify page title *********
 2020-03-23 14:50:43,521 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:52:06,851 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:52:13,237 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:52:33,294 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:52:34,347 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:52:38,723 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:52:58,741 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:53:54,386 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:53:59,994 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:54:20,034 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:54:21,263 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:54:24,549 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:54:44,568 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:55:19,452 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:55:24,172 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:55:40,459 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 14:56:00,550 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:56:01,815 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:56:05,129 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:56:16,887 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 14:56:36,970 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:57:23,425 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:57:28,213 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:57:48,271 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:57:49,451 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:57:52,704 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:58:01,689 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 14:58:05,307 - QA Testing -INFO - ******** As a user i can enter username *********
+2020-03-23 14:58:05,467 - QA Testing -INFO - ******** As a user i can enter password *********
+2020-03-23 14:58:05,572 - QA Testing -INFO - ******** As a user i can click on submit btn *********
+2020-03-23 14:58:08,566 - QA Testing -INFO - ******** As a user i can verify page title *********
+2020-03-23 14:58:08,600 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:59:24,008 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:59:29,027 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 14:59:49,071 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 14:59:50,337 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 14:59:53,632 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 15:00:05,523 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 15:00:15,561 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 15:01:56,502 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 15:02:01,045 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 15:02:16,201 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 15:02:21,212 - QA Testing -INFO - ******** As a user i can enter username *********
+2020-03-23 15:02:21,446 - QA Testing -INFO - ******** As a user i can enter password *********
+2020-03-23 15:02:21,580 - QA Testing -INFO - ******** As a user i can click on submit btn *********
+2020-03-23 15:02:24,316 - QA Testing -INFO - ******** As a user i can verify page title *********
+2020-03-23 15:02:24,367 - QA Testing -INFO - ******** As a user i can closed the browser *********
+2020-03-23 15:02:58,033 - QA Testing -INFO - ******** I am a chrome browser*********
+2020-03-23 15:03:03,562 - QA Testing -INFO - ******** As a user i can enter URL *********
+2020-03-23 15:03:19,475 - QA Testing -INFO - ******** As a user i can Click on signIn BTN *********
+2020-03-23 15:03:38,196 - QA Testing -INFO - ******** As a user i can enter username *********
+2020-03-23 15:03:38,372 - QA Testing -INFO - ******** As a user i can enter password *********
+2020-03-23 15:03:38,482 - QA Testing -INFO - ******** As a user i can click on submit btn *********
+2020-03-23 15:03:44,001 - QA Testing -INFO - ******** As a user i can verify page title *********
+2020-03-23 15:03:44,064 - QA Testing -INFO - ******** As a user i can closed the browser *********

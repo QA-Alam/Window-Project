@@ -40,7 +40,6 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testing.xml</suiteXmlFile>
-						<suiteXmlFile>CucumberBDD.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
